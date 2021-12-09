@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semprg_StringFormatting", "Semprg_StringFormatting\Semprg_StringFormatting.csproj", "{BE361595-84AC-4BA5-A89F-F4E5FF2B8C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE361595-84AC-4BA5-A89F-F4E5FF2B8C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE361595-84AC-4BA5-A89F-F4E5FF2B8C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE361595-84AC-4BA5-A89F-F4E5FF2B8C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE361595-84AC-4BA5-A89F-F4E5FF2B8C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2266E978-7F26-49A8-AFB9-9C0D90808594}
+	EndGlobalSection
+EndGlobal
